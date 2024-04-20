@@ -1,0 +1,66 @@
+.calender_card{
+    background-color: #ffffff !important;
+    padding: 50px;
+    margin: 50px;
+    /* max-width: 45%; */
+    box-shadow: 5px 10px #e0e0e0;
+    border-radius: 20px !important;
+    justify-content: center;
+    align-items: center;
+}
+
+.fc-day{
+    /* width: 50px !important; */
+}
+.fc-widget-content{
+    /* width: 200px !important; */
+}
+
+.fc-widget-header{
+    /* width: 200px !important; */
+}
+
+#full_calendar_events{
+    max-width: 800px !important;
+}
+
+/*    side bar     */
+.all_calendar_detail{
+    margin: 50px;
+    max-height: 600px;
+    overflow-y: scroll;
+    border-radius: 20px !important;
+}
+#popup::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(255, 255, 255, 0.3);
+	/* background-color: #ffffff; */
+}
+
+#popup::-webkit-scrollbar
+{
+	width: 6px;
+	/* background-color: #F5F5F5; */
+}
+
+#popup::-webkit-scrollbar-thumb
+{
+	background-color: #6a3ecf;
+    border-radius: 20px;
+}
+
+.calendar_detail{
+    padding: 20px;
+}
+
+.date_add{
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.date_add > button{
+    font-size: 10px !important;
+    background-color: #24a57f !important;
+    border: none !important;
+}
