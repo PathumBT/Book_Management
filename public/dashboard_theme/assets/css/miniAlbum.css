@@ -1,0 +1,29 @@
+.mini__album__container {
+
+}
+.mini__album__container h2 {
+    font-size: 34px;
+    font-weight: 800;
+    text-align: center;
+    border-bottom: 1px solid grey;
+    padding-bottom:  32px;
+}
+.mini__album__container  {
+    font-size: 34px;
+    font-weight: 800;
+    /* text-align:; */
+    border-bottom: 1px solid grey;
+    padding-bottom:  32px;
+}
+.mini__album__container p {
+    font-size: 16px;
+    margin-top: 24px;
+}
+
+.mini__album__container img {
+    width: 100%;
+    margin-top: 24px;
+}
+.option{
+    padding: opx !important;
+}
